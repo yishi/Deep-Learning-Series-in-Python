@@ -10,11 +10,18 @@
 
 **Summary:**
 
-Classifying MNIST digits get best test error **1.65%** by using Multi-Layer Perceptron, but training the model spend nearly **six hours** in my laptop on CPU.
-![logis](logis.png)
 In my exercise, classifying MNIST digits using Logistic Regression, have best test error **7.5%**, but training the model only spend **20.4 second** in the same computer on CPU.
+
+![logis](logis.png)
+
+Classifying MNIST digits get best test error **1.65%** by using Multi-Layer Perceptron, but training the model spend nearly **six hours** in my laptop on CPU.
+
+![mlp](mlp.png)
 
 **Tiny improve in test error, need more capacity or knoweledge and time.**
 > No free lunch.
 
 Using CNN to classifying MNIST digits will get test performance **0.92%**.
+
+![cnn](cnn.png)
+

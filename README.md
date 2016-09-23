@@ -34,4 +34,4 @@ Using CNN to classifying MNIST digits will get test performance **0.92%**.
 **********************************
 ![sda](sda.png)
 
-![dbm](dbm.png)
+![dbm](dbn.png)
